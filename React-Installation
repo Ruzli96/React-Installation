@@ -1,0 +1,11 @@
+Step 1:
+Install Node JS
+  - Option 1: Visit https://nodejs.org/en/ and download based on OS specifications
+  - Option 2: Use the terminal
+              brew install node (MAC installation terminal instruction)
+              node -v           (Check node version)
+              npm -v            (Check npm version)
+
+Step 2:
+Install React
+  - npm install -g create-react-app
